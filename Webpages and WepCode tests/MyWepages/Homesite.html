@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<script type="text/javascript">
+<!--luettelo(array)-->
+buttons = new Array()
+
+buttons[0] = new Image()
+buttons[0].src = "kuvat/painike1.png"
+
+buttons[1] = new Image()
+buttons[1].src = "kuvat/painikeb1.png"
+
+function button1(imgId)
+{
+document.getElementById(imgId).src = buttons[1].src;
+return true;
+}
+function button1b(imgId)
+{
+document.getElementById(imgId).src =buttons[0].src;;
+}
+
+</script>
+<style type="text/css">
+body {background-color:black;}
+#tausta {position:fixed; top:0px; right:0; position:top;background-image:url('kuvat/tausta1.jpg'); background-repeat:no-repeat; height:500px; width:500px;}
+#tausta1 {height:1000px; width:70%; background-image:url('kuvat/valikko_st.png'); background-repeat:no-repeat;}
+#tausta2 {height:50px; width:70%; background-color:grey; background-image:url('kuvat/tausta2.jpg'); background-repeat:repeat-x;}
+#sisalto1 {height:1000px; width:1000px; background-color:grey; background-image:url('kuvat/tausta3.jpg');}
+</style>
+</head>
+
+<body>
+<span id="tausta"></span>
+<div id="tausta2"></div>
+<div id="tausta1">
+<br>
+<a href="#"onmouseover="button1('b1')"onmouseout="button1b('b1')"><img border="0" src="kuvat/painike1.png" id="b1"/></a>
+<br><br>
+<a href="#"onmouseover="button1('b2')"onmouseout="button1b('b2')"><img border="0" src="kuvat/painike1.png" id="b2"/></a>
+</div>
+</body>
+</html>

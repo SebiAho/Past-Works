@@ -1,0 +1,59 @@
+<html>
+<head><script type="text/javascript">
+buttons = new Array()
+
+buttons[0] = new Image()
+buttons[0].src = "kuva 1.png"
+
+buttons[1] = new Image()
+buttons[1].src = "kuva 2.png"
+
+buttons[2] = new Image()
+buttons[2].src = "kuva 1.png"
+
+buttons[3] = new Image()
+buttons[3].src = "kuva 3.png"
+
+buttons[4] = new Image()
+buttons[4].src = "kuva 1.png"
+
+var counter=0;
+function button1(imgId)
+{
+if(counter==0){
+document.getElementById(imgId).src = buttons[1].src;
+counter=1
+}
+else if(counter==1){
+document.getElementById(imgId).src = buttons[3].src;
+counter=2
+}
+else if(counter==2){
+document.getElementById(imgId).src = buttons[1].src;
+counter=3
+}
+else{
+document.getElementById(imgId).src = buttons[3].src;
+return true;
+}
+}
+
+function button1b(imgId)
+{
+document.getElementById(imgId).src =buttons[0].src;
+counter=0;
+}
+
+</script>
+<style type="text/css">
+body {background-color:white;}
+div{position:relative; left:500px; top:150px; width:100px; height:100px;}
+
+</style>
+</head>
+<body>
+<div>
+<a href="#"onclick="button1('b1')" onmouseout="button1b('b1')"><img border="0" src="kuva 1.png" id="b1"/></a>
+</div>
+</body>
+</html>

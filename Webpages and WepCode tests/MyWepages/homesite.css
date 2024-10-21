@@ -1,0 +1,31 @@
+/*Main styles*/
+body {background-color:rgb(0,0,0); background-image:url('kuvat/background_body.png'); background-repeat:no-repeat; background-position:right top;}}
+/*Web pake positioning*/
+#position_center {width:1200px; margin:0 auto;}
+#position_center {width:1200px; margin:0 auto;}
+
+/*Main menu styles*/
+#main_menu {height:60px; width:1400px; margin:0 auto; background-image:url('kuvat/main_menu.png'); background-repeat:no-repeat;}
+
+#main_menu_list {width:300px; position:relative; top:5px; margin:0 auto;}
+
+	/*Main menu buttons*/
+.mainlink {display:inline-block; height:50px; width:140px; text-decoration:none; text-align:center; line-height:45px; background-image:url(kuvat/painike1.png); background-repeat:no-repeat; font-size:100%; color:rgb(40,40,40);}
+
+
+/*Left side menu styles*/
+#side_menu_left {float:left; height:500px; width:150px; background-image:url('kuvat/valikko_st.png'); background-repeat:no-repeat;}
+
+	/*Left side menu buttons*/
+.sidelink {display:block; height:50px; width:140px; margin:0 auto; text-decoration:none; text-align:center; line-height:45px; background-image:url(kuvat/painike1.png); background-repeat:no-repeat; font-size:100%; color:rgb(40,40,40);}
+
+/*Right sidebar styles*/
+#side_bar_right {float:right; height:500px; width:150px;}
+
+
+/*Content styles*/
+.p1 {width:700px; margin:15px auto;}
+.image_style_I{margin:15px;}
+
+	/*Style I*/
+#content_style_I {float:left; width:900px; text-align:center; background-color:rgb(0,0,0); color:rgb(255,255,255);}

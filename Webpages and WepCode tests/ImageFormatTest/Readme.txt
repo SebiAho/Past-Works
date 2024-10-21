@@ -1,0 +1,1 @@
+A simple webcode to test how different image formats look.
