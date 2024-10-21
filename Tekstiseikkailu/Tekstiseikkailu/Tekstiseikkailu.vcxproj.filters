@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Battle">
+      <UniqueIdentifier>{468df34a-b8f7-4a82-846c-7006f16d7784}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Battle">
+      <UniqueIdentifier>{ecf32f5b-de68-410f-80d8-62047bc42704}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine">
+      <UniqueIdentifier>{e8867bdb-ab67-45a4-aafc-ccb3bdaea39e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine">
+      <UniqueIdentifier>{c7a356c1-fe36-420a-bbff-8991eee5234b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Battle\Enemies">
+      <UniqueIdentifier>{adf8c1dd-67b5-4ddc-b224-c86709b04e38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Battle\Enemies">
+      <UniqueIdentifier>{257a4544-0f2f-4da7-9a54-f4a804b0f149}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Items">
+      <UniqueIdentifier>{7cfd4298-732a-48e1-b9f6-45e0cf73d64f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Items">
+      <UniqueIdentifier>{f7d338ea-b0cd-4aef-9b19-3a93601c6bce}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Print_Text_Image.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveGame.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Battle.cpp">
+      <Filter>Source Files\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="Battle_Methods.cpp">
+      <Filter>Source Files\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy_Zombie.cpp">
+      <Filter>Source Files\Battle\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy_The_Boss.cpp">
+      <Filter>Source Files\Battle\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy_Basic.cpp">
+      <Filter>Source Files\Battle\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files\Engine\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy_Secret_Boss.cpp">
+      <Filter>Source Files\Battle\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Tittle.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Shop.cpp">
+      <Filter>Source Files\Engine\Items</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SaveGame.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Print_Text_Image.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Battle.h">
+      <Filter>Header Files\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Header Files\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="Battle_Methods.h">
+      <Filter>Header Files\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy_Zombie.h">
+      <Filter>Header Files\Battle\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy_The_Boss.h">
+      <Filter>Header Files\Battle\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy_Basic.h">
+      <Filter>Header Files\Battle\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files\Engine\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy_Secret_Boss.h">
+      <Filter>Header Files\Battle\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Tittle.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Shop.h">
+      <Filter>Header Files\Engine\Items</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
