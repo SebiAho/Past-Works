@@ -1,0 +1,21 @@
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti\Peli_projekti\bin\x86\Debug\Peli_projekti.exe
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti\Peli_projekti\bin\x86\Debug\Peli_projekti.pdb
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti\Peli_projekti\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti\Peli_projekti\obj\x86\Debug\Peli_projekti.exe
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti\Peli_projekti\obj\x86\Debug\Peli_projekti.pdb
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti\Peli_projekti\bin\x86\Debug\Content\GameFont.xnb
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti\Peli_projekti\bin\x86\Debug\Content\Graphics.xnb
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti\Peli_projekti\bin\x86\Debug\Content\Cards.xnb
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti\Peli_projekti\bin\x86\Debug\Content\GameFont2.xnb
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti\Peli_projekti\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\bin\x86\Debug\Content\GameFont.xnb
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\bin\x86\Debug\Content\GameFont2.xnb
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\bin\x86\Debug\Content\Graphics.xnb
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\bin\x86\Debug\Content\Cards.xnb
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\bin\x86\Debug\Peli_projekti.exe
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\bin\x86\Debug\Peli_projekti.pdb
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\obj\x86\Debug\Peli_projekti.exe
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\obj\x86\Debug\Peli_projekti.pdb
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\bin\x86\Debug\Content\Main_16bit.xnb

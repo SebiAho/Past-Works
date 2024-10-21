@@ -1,0 +1,5 @@
+Content\GameFont.xnb
+Content\GameFont2.xnb
+Content\Graphics.xnb
+Content\Cards.xnb
+Content\Main_16bit.xnb

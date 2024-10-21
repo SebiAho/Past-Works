@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GameFont.spritefont</Source>
+      <Name>GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Time>2013-12-16T04:40:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GameFont2.spritefont</Source>
+      <Name>GameFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\bin\x86\Debug\Content\GameFont2.xnb</Output>
+      <Time>2013-12-16T04:40:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics.png</Source>
+      <Name>Graphics</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\bin\x86\Debug\Content\Graphics.xnb</Output>
+      <Time>2013-12-17T13:00:34.2086337+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards.png</Source>
+      <Name>Cards</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\bin\x86\Debug\Content\Cards.xnb</Output>
+      <Time>2013-12-17T13:13:39.060576+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Main_16bit.wav</Source>
+      <Name>Main_16bit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\bin\x86\Debug\Content\Main_16bit.xnb</Output>
+      <Time>2013-12-18T12:48:58.4294101+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{6D1C6043-5AAC-4C72-B30C-5BED2618678A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projektiContent\</RootDirectory>
+      <LoggerRootDirectory>Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\</LoggerRootDirectory>
+      <IntermediateDirectory>Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projekti\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-07-12T12:24:42.211614+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

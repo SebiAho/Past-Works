@@ -1,0 +1,2 @@
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti\Peli_projektiContent\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Ohjelmointi\Työt ja Projektit\Peli_projekti\Peli_projekti v2\Peli_projektiContent\obj\x86\Debug\ResolveAssemblyReference.cache
