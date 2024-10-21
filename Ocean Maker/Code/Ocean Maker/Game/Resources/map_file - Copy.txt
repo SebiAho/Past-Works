@@ -1,0 +1,101 @@
+#level#
+Tutorial 1: Follow the Path
+3
+9
+P33--
+---3-
+33---
+
+#level#
+Tutorial 2: Water + Lava = ?
+5
+11
+##---
+##-#-
+P-L--
+##-##
+##-##
+
+#level#
+Tutorial 3: Stopping not an Option
+3
+10
+###III##
+PIII#I##
+#####II-
+
+#level#
+Tutorial 4: Hot Ice?
+5
+11
+##III
+##I#I
+PIiII
+##I##
+##-##
+
+#level#
+Level 2
+6
+31
+------
+--P---
+--33--
+--3---
+--3---
+------
+
+#level#
+Level 3 Peach
+6
+23
+wwwwww
+wwwPww
+ssss4s
+ssssss
+ssssss
+ssssss
+
+#level#
+Level 4 Volcano
+8
+23
+LLLLLLLL
+L333333L
+L3,,,,3L
+L3LLLL33
+L3L,,L,,
+33LLLL33
+P,,,,,3L
+3333333L
+
+#level#
+Level 4
+7
+29
+33III33
+33I3I33
+IPIILII
+I3I3I3I
+I3III3I
+I33333I
+IIIIIII
+
+#level#
+level 18
+4
+19
+P.L...
+.1.1..
+.1.1..
+......
+
+#level#
+level 10
+5
+18
+fffff,
+FFFFFg
+,LLLLL
+,,7,,,
+P,,,,,

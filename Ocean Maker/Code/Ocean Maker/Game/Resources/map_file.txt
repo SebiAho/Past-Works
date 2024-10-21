@@ -1,0 +1,127 @@
+#level#
+Level 1: Follow the Path
+3
+9
+P33--
+---3-
+33---
+
+#level#
+Level 2: Water + Lava = ?
+5
+11
+##---
+##-#-
+P-L--
+##-##
+##-##
+
+#level#
+Level 3: Stopping not an Option
+3
+10
+###III##
+PIII#I##
+#####II-
+
+#level#
+Level 4: Hot Ice?
+5
+11
+##III
+##I#I
+PIiII
+##I##
+##-##
+
+#level#
+Level 5
+6
+31
+......
+.-P--.
+.-22-.
+.-2--.
+.-2--.
+......
+
+#level#
+Level 6 Peach
+6
+23
+wwwwww
+wwwPww
+ssss4s
+ssssss
+ssssss
+ssssss
+
+#level#
+Level 7 Volcano
+8
+23
+LLLLLLLL
+L333333L
+L3,,,,3L
+L3LLLL33
+L3L--L,,
+33LLLL33
+P,,,,,3L
+3333333L
+
+#level#
+Level 8
+7
+29
+22III22
+22I2I22
+IPIILII
+I2I2I2I
+I2III2I
+I22222I
+IIIIIII
+
+#level#
+level 9
+4
+19
+P.L...
+.1.1..
+.1.1..
+......
+
+#level#
+level 10
+5
+18
+fffff,
+FFFFFg
+,LLLLL
+,,7,,,
+P,,,,,
+
+#level#
+level 11
+5
+10
+#####
+P0000
+####0
+00000
+#####
+
+
+#level#
+level 12
+10
+1
+MPMMwswMMM
+MMMMMMMMMM
+MMMMMMMMwM
+MMMMMMMMMM
+MMMMwMMMMM
+MMMMMMMMMw
+MMwMMMMMMw
+MMMMMMMMMw
+MMMMMMMMMM
+MwMMMMMMMM
